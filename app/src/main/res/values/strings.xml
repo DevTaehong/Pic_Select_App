@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="tvTitle">A rating page</string>
+    <string name="etPicName">Enter a picture name</string>
+    <string name="etComment">Enter any comment</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="btnRead">Read</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnWave">Wave</string>
+    <string name="test">test</string>
+
+    <string-array name="pics_array">
+        <item>Moon</item>
+        <item>Tram</item>
+        <item>Bridge</item>
+        <item>City</item>
+        <item>River</item>
+        <item>Sunset</item>
+        <item>Bridge2</item>
+    </string-array>
+</resources>
